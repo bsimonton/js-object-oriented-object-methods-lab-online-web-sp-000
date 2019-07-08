@@ -4,10 +4,10 @@ function BoardMember(name, homeState, training){
   this.training = training;
   
   
-  this.veto = function{
+  this.veto = function(){
     
-    return 
-  }
+    return "No, I must disagree";
+  };
   
   
   
