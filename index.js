@@ -20,6 +20,10 @@ function BoardMember(name, homeState, training){
   };
   
   
+  this.releasePressStatement = function(){
+    
+    return "I like to help people.";
+  };
   
   
   
