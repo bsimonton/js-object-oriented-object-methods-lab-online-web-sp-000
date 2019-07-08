@@ -9,6 +9,9 @@ function BoardMember(name, homeState, training){
     return "No, I must disagree";
   };
   
-  
+  this.approve = function(){
+    
+    return "No, I must disagree";
+  };
   
 }
