@@ -22,11 +22,15 @@ function BoardMember(name, homeState, training){
   
   this.releasePressStatement = function(){
     
-    return "I like to help people.";
+    return "You will see great things from Scuber.";
   };
   
   
-  
+  this.sayHi = function(){
+    
+    
+    return 
+  }
   
   
   
