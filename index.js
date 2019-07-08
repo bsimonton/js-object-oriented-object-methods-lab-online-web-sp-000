@@ -16,7 +16,7 @@ function BoardMember(name, homeState, training){
   
   this.doCHarity = function(){
     
-    return "You can do that!";
+    return "I like to help people.";
   };
   
   
